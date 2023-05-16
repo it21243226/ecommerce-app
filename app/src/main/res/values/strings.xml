@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">my project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_to_your_account">Login to Your Account</string>
+    <string name="not_have_account_register">Not Have Account?<b> Register</b></string>
+    <string name="already_have_account_login">Already Have Account?<b>Login</b> </string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password_recover"> <b>Recover Password</b></string>
+    <string name="didn_t_receive_otp_resend">Didn\'t Receive OTP? <b>Resend</b></string>
+    <string name="are_you_sure_you_want_to_delete_your_account_including_data_nyou_will_not_be_able_to_access_your_account_again_nthis_action_can_t_be_undone">Are you sure you want to delete your account including data? \nyou will not be able to access your account again!\nThis action can\'t be undone..</string>
+</resources>
